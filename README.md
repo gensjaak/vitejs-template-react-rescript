@@ -8,8 +8,8 @@
 ## Getting Started
 
 ```sh
-npx degit jihchi/vitejs-template-react-rescript my-vitejs-react-rescript
+npx degit gensjaak/vitejs-template-react-rescript my-vitejs-react-rescript
 cd my-vitejs-react-rescript
-npm i
-npm start
+yarn
+yarn start
 ```
